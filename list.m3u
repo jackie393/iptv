@@ -1117,3 +1117,7 @@ https://vstv.broadpeak-aas.com/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thet
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000197&SessionId=B17BD1C6CEFCE6EE&Ticket=61E4DE914017DAEB
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vstv.broadpeak-aas.com/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
+
+#EXTINF:-1 logo="logo" group-title="korea",K+
+https://channel.mbed.cc/kplus.m3u8
+

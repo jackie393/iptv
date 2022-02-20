@@ -733,7 +733,7 @@ http://vthanh.me/getlink2021/tivi.php?ott=sctvonline&id=planetearth|Referer=http
 #EXTINF:-1 tvg-id="outdoorhd" group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.multichannelsasia.com/wp-content/uploads/2015/11/OC_Logo2017_Primary-e1492590279375.png",Outdoor Channel
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png" , Love Nature 4K
+#EXTINF:0 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png" , Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
@@ -750,9 +750,10 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HD
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="boxmovie1" tvg-name="FOXlife HD" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
+#⚠️⚠️
+#EXTINF:0 tvg-id="boxmovie1" tvg-name="FOXlife HD" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -799,13 +800,13 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="KÊNH QUỐC TẾ" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png",Happy Kids HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-
-#CUỘC SỐNG
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" tvg-name="Da Vinci (HD)"  group-title="QUỐC TẾ - BEARTV",Da Vinci HD
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" tvg-name="Da Vinci (HD)"  group-title="KÊNH QUỐC TẾ",Da Vinci Kids
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="QUỐC TẾ - BEARTV",Asian Food Network
+
+#CUỘC SỐNG
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="KÊNH QUỐC TẾ",Asian Food Network
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -830,11 +831,12 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kix"  group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0  tvg-id="man" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/JrMJf2G/Man-BEARTV.png",Man
+#EXTINF:0  tvg-id="man" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/JrMJf2G/Man-BEARTV.png",Man
 #EXTVLCOPT:http-user-agent="BearTV"
-#http://gg.gg/beartv-man
-https://e4.endpoint.cdn.sctvonline.vn/hls/man-tv/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
-#EXTINF:0  tvg-id="woman" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
+http://gg.gg/beartv-man
+#https://e4.endpoint.cdn.sctvonline.vn/hls/man-tv/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
+
+#EXTINF:0  tvg-id="woman" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 
@@ -849,42 +851,48 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv|Referer=
 #EXTINF:-1 tvg-id="historyhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg",History HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 
-#EXTINF:0  tvg-id="drfithd" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png",Dr. Fit
+#EXTINF:-1 tvg-id="tv5monde" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", TV5MONDE
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/8XwH2hS/KBS-World-BEARTV.png",KBS World
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="abcaustralia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png", ABC Australia
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/jyjnF47/4fun-tv-BEARTV.png", 4FunTV
+https://srv1.adriatelekom.com/4FunTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/v4JTzfp/M2-BEARTV.png", M2 TV
+http://live.m2.tv/hls3/720/stream.m3u8
+
+#EXTINF:-1 tvg-id="mtvhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
+#EXTVLCOPT:http-user-agent="BearTV"
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-id="dmax"group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",Dmax
+#EXTVLCOPT:http-user-agent="BearTV"
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png" group-title="KÊNH QUỐC TẾ",VIVA TV 
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+#http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+
+
+#⚠️⚠️
+#EXTINF:0  tvg-id="drfithd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png",Dr. Fit
 #EXTVLCOPT:http-user-agent="BearTV"
 #http://gg.gg/ccbfit|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
 
 #⚠️⚠️
-#EXTINF:-1 tvg-id="musicbox" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",BOX Music
+#EXTINF:-1 tvg-id="musicbox" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",BOX Music
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="tv5monde" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", TV5MONDE
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="kbsworld" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/8XwH2hS/KBS-World-BEARTV.png",KBS World
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="abcaustralia" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png", ABC Australia
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png" group-title="QUỐC TẾ - BEARTV",VIVA TV 
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-#http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/jyjnF47/4fun-tv-BEARTV.png", 4FunTV
-https://srv1.adriatelekom.com/4FunTV/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/v4JTzfp/M2-BEARTV.png", M2 TV
-http://live.m2.tv/hls3/720/stream.m3u8
-#EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="dmax"group-title="QUỐC TẾ - BEARTV" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",Dmax
-#EXTVLCOPT:http-user-agent="BearTV"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 

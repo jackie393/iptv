@@ -738,8 +738,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 
-
-
 #Phim
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
@@ -750,24 +748,12 @@ https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HD
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#⚠️⚠️
-#EXTINF:0 tvg-id="boxmovie1" tvg-name="FOXlife HD" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
-#EXTVLCOPT:http-user-agent="BearTV"
-#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="KÊNH QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068845352.png",BOX MOVIE
-http://192.53.113.67/Boxmovie1/index.m3u8
-
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068836041.png",HOLLYWOOD CLASSICS
-#http://192.53.113.67/Hollywool/index.m3u8
+http://192.53.113.67/Hollywool/index.m3u8
 
-#EXTINF:-1 tvg-id="boxhits" group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg", Boxhits
+#EXTINF:-1 tvg-id="boxhits" group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg", Box Hits
 #http://192.53.113.67/Boxhits/index.m3u8
-https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
-
+#https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="KÊNH QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
 http://cdnmega.vthanh.xyz/boxhits/mpegts
 
@@ -775,6 +761,13 @@ http://cdnmega.vthanh.xyz/boxhits/mpegts
 #http://192.53.113.67/Inthebox/index.m3u8
 https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
 
+#⚠️⚠️
+#EXTINF:0 tvg-id="boxmovie1" tvg-name="FOXlife HD" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
+#EXTVLCOPT:http-user-agent="BearTV"
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#⚠️⚠️
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
 

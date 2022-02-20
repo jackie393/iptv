@@ -1,5 +1,6 @@
 #LỊCH EPG
-#EXTM3U url-tvg="http://bit.ly/guidevn" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+
 
 ####################################################################
 #🎯🎯🎯🎯🎯🎯VTV🎯🎯🎯🎯🎯🎯
@@ -904,10 +905,6 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dmax" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",Dmax
 #EXTVLCOPT:http-user-agent="BearTV"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="viva" tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png" group-title="KÊNH QUỐC TẾ",VIVA TV 
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-#http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 
 
 #⚠️⚠️
